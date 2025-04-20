@@ -9,10 +9,12 @@ An end-to-end business intelligence project leveraging Power BI to analyze retai
 
 **Project Overview**
 
+
 This project provides a comprehensive visualization of Super Store sales performance using Power BI. It includes a variety of KPIs and trend analysis to monitor the growth of the business. The dashboard helps stakeholders quickly evaluate which regions, product categories, and customer segments are driving profitability.
 
 
 **Business Objectives**
+
 
 - Analyze total sales, profits, and quantities sold.
 
@@ -58,6 +60,7 @@ This project provides a comprehensive visualization of Super Store sales perform
 
 
  **KPI Cards:**
+
  
 - Total Sales: 1.57M
 
@@ -94,6 +97,7 @@ COD, Online, and Card payments visualization
 
 **Key Insights**
 
+
 - Office Supplies lead sales with 41%, followed by Technology at 30%.
 
 - Consumer Segment is the most valuable, contributing 48% of total sales.
@@ -116,6 +120,7 @@ This project demonstrates how data visualization can reveal actionable insights 
 
 
 ### **Author**
+
 
 **Anjali Singh**  
 
