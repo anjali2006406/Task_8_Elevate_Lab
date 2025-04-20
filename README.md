@@ -107,9 +107,12 @@ COD, Online, and Card payments visualization
 - COD is the most preferred sales method ($0.67M).
 
 
+
   **Conclusion**
+
   
 This project demonstrates how data visualization can reveal actionable insights from sales data. It equips businesses with the necessary tools to monitor performance, identify trends, and make strategic decisions based on real data.
+
 
 
 ### **Author**
