@@ -16,13 +16,13 @@ This project provides a comprehensive visualization of Super Store sales perform
 
 - Analyze total sales, profits, and quantities sold.
 
--Identify top-performing product categories and sub-categories.
+- Identify top-performing product categories and sub-categories.
 
--Understand customer segment behavior and regional performance.
+- Understand customer segment behavior and regional performance.
 
--Compare sales and profit trends across years.
+- Compare sales and profit trends across years.
 
--Support better inventory and marketing decisions using data insights.
+- Support better inventory and marketing decisions using data insights.
 
 
 ### Dataset Description
