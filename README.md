@@ -59,11 +59,11 @@ This project provides a comprehensive visualization of Super Store sales perform
 
  **KPI Cards:**
  
--Total Sales: 1.57M
+- Total Sales: 1.57M
 
--Total Profit: 175.26K
+- Total Profit: 175.26K
 
--Total Quantity Sold: 22K
+- Total Quantity Sold: 22K
 
  **Time Series Charts:**
  
