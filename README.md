@@ -6,14 +6,13 @@
 
 An end-to-end business intelligence project leveraging Power BI to analyze retail sales performance using the Super Store dataset. The dashboard enables data-driven decision-making by uncovering insights into sales, profit, customer segments, and product performance across multiple dimensions.
 
-
-**Project Overview**
+## **Project Overview**
 
 
 This project provides a comprehensive visualization of Super Store sales performance using Power BI. It includes a variety of KPIs and trend analysis to monitor the growth of the business. The dashboard helps stakeholders quickly evaluate which regions, product categories, and customer segments are driving profitability.
 
 
-**Business Objectives**
+## **Business Objectives**
 
 
 - Analyze total sales, profits, and quantities sold.
@@ -59,7 +58,7 @@ This project provides a comprehensive visualization of Super Store sales perform
 # **Dashboard Features**
 
 
- **KPI Cards:**
+## **KPI Cards:**
 
  
 - Total Sales: 1.57M
@@ -73,7 +72,7 @@ This project provides a comprehensive visualization of Super Store sales perform
 Monthly Sales and Profit comparison across 2019 and 2020.
 
 
-**Category-wise Analysis:**
+## **Category-wise Analysis:**
 
 
 Sales by Category (Office Supplies, Furniture, Technology)
@@ -81,21 +80,23 @@ Sales by Category (Office Supplies, Furniture, Technology)
 Sales by Sub-Category (Phones, Chairs, Binders, etc.)
 
 
- **Customer Segmentation:**
+## **Customer Segmentation:**
 
  
 Segment-wise contribution (Consumer, Corporate, Home Office)
 
- **Regional Performance:**
+
+## **Regional Performance:**
+
  
 Filters for Central, East, South, and West regions.
 
- **Sales Channel Breakdown:**
+## **Sales Channel Breakdown:**
 
 COD, Online, and Card payments visualization
 
 
-**Key Insights**
+## **Key Insights**
 
 
 - Office Supplies lead sales with 41%, followed by Technology at 30%.
@@ -112,7 +113,7 @@ COD, Online, and Card payments visualization
 
 
 
-  **Conclusion**
+## **Conclusion**
 
   
 This project demonstrates how data visualization can reveal actionable insights from sales data. It equips businesses with the necessary tools to monitor performance, identify trends, and make strategic decisions based on real data.
