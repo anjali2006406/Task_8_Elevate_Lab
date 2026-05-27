@@ -125,7 +125,7 @@ This project demonstrates how data visualization can reveal actionable insights 
 
 **Anjali Singh**  
 
-_Aspiring Business and Data Analyst_ 
+Aspiring Business and Data Analyst
 
 🔗 [LinkedIn] :-www.linkedin.com/in/anjalissingh 
 
